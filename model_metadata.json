@@ -1,0 +1,130 @@
+{
+  "feature_columns": [
+    "Inches",
+    "Ram",
+    "Weight",
+    "Cpu_Speed_GHz",
+    "Storage_GB",
+    "PPI",
+    "Touchscreen",
+    "IPS_Panel",
+    "Company_Acer",
+    "Company_Apple",
+    "Company_Asus",
+    "Company_Chuwi",
+    "Company_Dell",
+    "Company_Fujitsu",
+    "Company_Google",
+    "Company_HP",
+    "Company_Huawei",
+    "Company_LG",
+    "Company_Lenovo",
+    "Company_MSI",
+    "Company_Mediacom",
+    "Company_Microsoft",
+    "Company_Razer",
+    "Company_Samsung",
+    "Company_Toshiba",
+    "Company_Vero",
+    "Company_Xiaomi",
+    "TypeName_2 in 1 Convertible",
+    "TypeName_Gaming",
+    "TypeName_Netbook",
+    "TypeName_Notebook",
+    "TypeName_Ultrabook",
+    "TypeName_Workstation",
+    "OS_Linux",
+    "OS_No OS",
+    "OS_Other",
+    "OS_Windows",
+    "OS_macOS",
+    "Cpu_Brand_AMD",
+    "Cpu_Brand_Intel",
+    "Cpu_Brand_Samsung",
+    "Gpu_Brand_AMD",
+    "Gpu_Brand_ARM",
+    "Gpu_Brand_Intel",
+    "Gpu_Brand_Nvidia",
+    "Storage_Type_Flash Storage",
+    "Storage_Type_HDD",
+    "Storage_Type_Hybrid",
+    "Storage_Type_SSD"
+  ],
+  "category_options": {
+    "Company": [
+      "Acer",
+      "Apple",
+      "Asus",
+      "Chuwi",
+      "Dell",
+      "Fujitsu",
+      "Google",
+      "HP",
+      "Huawei",
+      "LG",
+      "Lenovo",
+      "MSI",
+      "Mediacom",
+      "Microsoft",
+      "Razer",
+      "Samsung",
+      "Toshiba",
+      "Vero",
+      "Xiaomi"
+    ],
+    "TypeName": [
+      "2 in 1 Convertible",
+      "Gaming",
+      "Netbook",
+      "Notebook",
+      "Ultrabook",
+      "Workstation"
+    ],
+    "OS": [
+      "Linux",
+      "No OS",
+      "Other",
+      "Windows",
+      "macOS"
+    ],
+    "Cpu_Brand": [
+      "AMD",
+      "Intel",
+      "Samsung"
+    ],
+    "Gpu_Brand": [
+      "AMD",
+      "ARM",
+      "Intel",
+      "Nvidia"
+    ],
+    "Storage_Type": [
+      "Flash Storage",
+      "HDD",
+      "Hybrid",
+      "SSD"
+    ]
+  },
+  "numeric_ranges": {
+    "Inches": [
+      10.1,
+      18.4
+    ],
+    "Ram": [
+      2,
+      64
+    ],
+    "Weight": [
+      0.69,
+      4.7
+    ],
+    "Cpu_Speed_GHz": [
+      0.9,
+      3.6
+    ],
+    "Storage_GB": [
+      8.0,
+      2048.0
+    ]
+  }
+}
